@@ -21,6 +21,7 @@ Focused on:
 ## Building
 
 Side projects and experiments:
+- **[nuxt-pogton-starter](https://github.com/antonandresen/nuxt-pogton-starter)** — production-ready Nuxt 4 starter with shadcn-vue, TypeScript, and Tailwind. Built for shipping SaaS projects fast.
 - **[pogscript](https://github.com/antonandresen/pogscript)** — a programming language
 - **the more** — [description coming soon]
 
