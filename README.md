@@ -1,16 +1,16 @@
 # Anton Andresen
 
-Tech freelancer, entrepreneur & CTO building things that matter.
+Tech freelancer, entrepreneur & CTO.
 
 ## What I Do
 
-Currently co-founder & CTO at **[oriiion.ai](https://oriiion.ai)** - a VC-backed startup ($5M valuation) building the future of AI-powered marketing.
+Co-founder & CTO at **[oriiion.ai](https://oriiion.ai)** - a VC-backed startup ($5M valuation) working on AI-powered marketing.
 
-I help companies ship products, scale tech teams, and turn ideas into reality. Available for select consulting & advisory work.
+I help companies ship products and scale tech teams. Open to consulting work.
 
 ## Tech
 
-Building with modern stacks - whatever solves the problem best. Heavy on **Vue/Nuxt** and **Convex** lately.
+Heavy on **Vue/Nuxt** and **Convex** lately.
 
 Focused on:
 - AI/ML applications
@@ -28,7 +28,3 @@ Side projects and experiments:
 ## Connect
 
 Open to interesting projects and conversations.
-
----
-
-*Building in public, one commit at a time.*
